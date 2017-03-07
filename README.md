@@ -1,6 +1,6 @@
-- Longest Common Subsequence (LCS)
-o Description:
- Find the length of the longest common subsequence (non- consecutive characters) of two strings
+#Longest Common Subsequence (LCS)
+#Description:
+ Find the length of the longest common subsequence (non- consecutive characters) of two strings
 o Inputs:
  Two different strings (Max: 1000000 each)
 o Outputs:
