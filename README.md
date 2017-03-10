@@ -7,7 +7,9 @@
   The length of the longest common subsequence
 # Example Input:
  “computer”
+ 
  “houseboat”
 # Example Output:
-  Longest common subsequence = 3
-  Note : the common subsequences are : ou– oue - out
+   Longest common subsequence = 3
+   
+   Note : the common subsequences are : ou– oue - out
